@@ -15,4 +15,5 @@ Acoustics, Speech and Signal Processing (ICASSP), 2018
 In order to run the demos and the algorithms the Tensorlab toolbox is required:
 Link to the TensorLab toolbox for MATLAB: https://www.tensorlab.net
 
-Download the Pavia University Hyperspectral image from the following link:
+Download the Pavia University Hyperspectral image (PaviaU.mat) from the following link:
+http://www.ehu.eus/ccwintco/uploads/e/ee/PaviaU.mat
