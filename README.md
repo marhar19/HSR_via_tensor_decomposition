@@ -11,3 +11,8 @@ Reference 2: C.I. Kanatsoulis, X. Fu, N.D. Sidiropoulos and W.K. Ma,
 ``Hyperspectral Super-resolution via Coupled Tensor Factorization:
 Identifiability and Algorithms,'' IEEE International Conference on 
 Acoustics, Speech and Signal Processing (ICASSP), 2018
+
+In order to run the demos and the algorithms the Tensorlab toolbox is required:
+Link to the TensorLab toolbox for MATLAB: https://www.tensorlab.net
+
+Download the Pavia University Hyperspectral image from the following link:
