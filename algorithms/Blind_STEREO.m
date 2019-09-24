@@ -1,7 +1,7 @@
 function [ A_hat,B_hat,C,cost ] = Blind_STEREO( H,M,P3,MAXIT,A_hat,B_hat,A_tilde,B_tilde,C_tilde,lamda )
 % Blind STEREO algorithm
 % (c) Charilaos I. Kanatsoulis, University of Minnesota, Jan 7 , 2018
-% nikos@umn.edu
+% kanat003@umn.edu
 % 
 % Reference 1: C.I. Kanatsoulis, X. Fu, N.D. Sidiropoulos and W.K. Ma, 
 %``Hyperspectral Super-resolution: A Coupled Tensor Factorization
